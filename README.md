@@ -7,5 +7,5 @@ This web document deployed in Netlify and if available in the  [netlify_ulr](htt
 
 ##Screen Shots of the Webpage;
 
-![ScreenShots](Screenshot from 2024-02-28 15-47-36.png )
-![ScreenShots](Screenshot from 2024-02-28 15-47-53.png )
+![ScreenShots](screen1.png )
+
